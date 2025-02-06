@@ -1,0 +1,5 @@
+word;category
+suvila;hoone
+kasvuhoone;hoone
+lasteaiakasvataja;amet
+bussijuht;amet

@@ -1,0 +1,12 @@
+name;word;letters;game length;game time
+Mario;kasvuhoone;B;21;2025-02-06 14:30:38
+Mario;suvila;K;15;2025-02-06 14:39:36
+Mario;bussijuht;D;17;2025-02-06 15:08:40
+mario;bussijuht;D;17;2025-02-06 15:09:37
+Mario;kasvuhoone;R, T, D, G, M;39;2025-02-06 17:15:47
+Mario;bussijuht;E, R, Y, F, A, W, W, E, R, Y, K;18;2025-02-06 17:16:41
+Mario;suvila;K, T, K;32;2025-02-06 17:17:32
+Mario;suvila;;13;2025-02-06 17:26:25
+Mario;bussijuht;V, L, A;26;2025-03-02 20:52:23
+Mario;kasvuhoone;B, D;38;2025-03-02 20:59:28
+Mario;bussijuht;;16;2025-03-02 22:38:31
