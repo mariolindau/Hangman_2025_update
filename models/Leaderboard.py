@@ -33,3 +33,9 @@ class Leaderboard:
             leaderboard = sorted(leaderboard, key=lambda x: (x.game_length, len(x.letters.split(', ')))) # Sorteerib kestvuse järgi
 
         return leaderboard
+
+    #Getter
+
+    @property
+    def file_path(self):
+        return self.__file_path
